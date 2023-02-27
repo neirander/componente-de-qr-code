@@ -18,7 +18,7 @@ Os usuários devem ser capazes de:
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
 - Flexbox
-- Grade CSS
+- CSS Grid
 - Fluxo de trabalho Mobile-first
 
 ## Autor
