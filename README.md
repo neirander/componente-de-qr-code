@@ -19,7 +19,7 @@ Os usuários devem ser capazes de:
 - Propriedades personalizadas CSS
 - Flexbox
 - CSS Grid
-- Fluxo de trabalho Mobile-first
+- Fluxo de trabalho First-Mobile
 
 ## Autor
 
